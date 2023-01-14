@@ -1,2 +1,4 @@
-xlass Date{
+class Date{
+public:
+Date();
 };
