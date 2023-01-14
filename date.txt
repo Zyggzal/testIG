@@ -1,0 +1,2 @@
+xlass Date{
+};
